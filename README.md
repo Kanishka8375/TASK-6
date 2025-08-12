@@ -1,10 +1,10 @@
-# Task 6 – Static Website with GitHub Pages
+# Task 6 â€“ Static Website with GitHub Pages
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Kanishka8375/TASK-6)
 ![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-brightgreen)
 
 ## Live Link
-[Click Here](file:///K:/Task6-StaticWebsite/index.html)
+('file:///K:/Task6-StaticWebsite/index.html')
 
 ## Overview
 A beginner-friendly but impressive multi-page static website deployed using GitHub Pages.
