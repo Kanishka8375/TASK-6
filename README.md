@@ -4,7 +4,7 @@
 ![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-brightgreen)
 
 ## Live Link
-[Click Here]((https://Kanishka8375.github.io/TASK-6/)
+[Click Here](https://YourUsername.github.io/Task6-StaticWebsite)
 
 ## Overview
 A beginner-friendly but impressive multi-page static website deployed using GitHub Pages.
